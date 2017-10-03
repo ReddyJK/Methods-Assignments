@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ~/Dropbox/Methods/Tools/Install/Machines/020_Installing-Xubuntu-On-VirtualBox_Illustrated/Screenshots
+ls > ~/files.md
+
+
