@@ -13,7 +13,6 @@ git push -u origin master
 cp -r ~/Dropbox/pri/Methods/Assignments/* ~/Dropbox/git/Methods/Assignments/
 git add .
 git commit -m "Add existing file"
-git remote add origin https://github.com/ReddyJK/Methods-Assignments.git
 git push -u origin master
 
 
