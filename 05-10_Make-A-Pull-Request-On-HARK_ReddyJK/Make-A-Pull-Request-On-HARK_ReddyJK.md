@@ -9,4 +9,6 @@ Your assignment is to:
 
 Pulled the HARK repo to my computer successfully. I went through a couple of programs. Everything puzzled me as I am not from the economics department. I issued the pull request with the fashionvictim model but i didnt really modifiy anything as I dont really know the model.
 
+I tried changing the parameters for the fashionvictim model and check the changes in the functions used in the model.
+
 
